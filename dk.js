@@ -7,5 +7,5 @@ db.clientmaster.insertMany([{clientno:'C00001',clientname:'ivan bayroos',city:'M
 {clientno:'C00006',clientname:'Deepak Sharma',city:'Manglore',pincode:'560050',state:'Karnataka',baldue:'0'}])
 
  db.employees.find()
- load("students.js")
+load("dk.js")
  db.clientmaster.insert({clientno:'C00007',clientname:'Rajesh Mishra',city:'Surat',pincode:'395010',state:'Gujarat',baldue:'0',hobbie:"reading"})
