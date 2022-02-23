@@ -1,0 +1,1 @@
+db.saleman.insertMany([{SalemanNo:"S0001",Name:"Aman"}])
