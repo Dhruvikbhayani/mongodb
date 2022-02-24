@@ -1,0 +1,15 @@
+db.sales_order_detail.insertMany([{qtyorderd:"4",qtydisp:"4",productrate:"525"},
+{qtyorderd:"2",qtydisp:"1",productrate:"8400"},
+{qtyorderd:"2",qtydisp:"1",productrate:"5250"},
+{qtyorderd:"10",qtydisp:"0",productrate:"525"},
+{qtyorderd:"3",qtydisp:"3",productrate:"3150"},
+{qtyorderd:"3",qtydi,sp:"1",productrate:"5250"},
+{qtyorderd:"10",qtydisp:"10",productrate:"525"},
+{qtyorderd:"4",qtydisp:"4",productrate:"1050"},
+{qtyorderd:"2",qtydisp:"2",productrate:"1050"},
+{qtyorderd:"1",qtydisp:"1",productrate:"12000"},
+{qtyorderd:"1",qtydisp:"0",productrate:"8400"},
+{qtyorderd:"1",qtydisp:"0",productrate:"1050"},
+{qtyorderd:"10",qtydisp:"5",productrate:"525"},
+{qtyorderd:"5",qtydisp:"3",productrate:"1050"}
+])
